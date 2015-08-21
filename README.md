@@ -1,2 +1,5 @@
 # Hello-Github
-My first repository on GitHub. 2015-08-21
+2015-08-21
+My first repository on GitHub. 
+#about me
+Hi, I'm luozhelei. I'm from china. I love coding.
